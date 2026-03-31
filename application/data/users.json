@@ -1,7 +1,7 @@
 {
-    "admin": {
+    "sevencols": {
         "username": "sevencols",
-        "password_hash": "$2y$10$DcQYKoj6oo7TFipBvZjniOwFixW88EloqL0wjpbPH1eDLCaZKe8aK",//anamsukses12
+        "password_hash": "$2y$10$O2SvbOBgX8/ogzWAHg1P/.fkn6qpD3oUFNyL5JGU3jTBlUU0u52Aa",
         "role": "administrator"
     }
 }

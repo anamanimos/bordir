@@ -2736,3 +2736,346 @@ INFO - 2026-03-31 12:41:12 --> File loaded: D:\laragon\www\bordir\application\vi
 INFO - 2026-03-31 12:41:12 --> File loaded: D:\laragon\www\bordir\application\views\layout/master.php
 INFO - 2026-03-31 12:41:12 --> Final output sent to browser
 DEBUG - 2026-03-31 12:41:12 --> Total execution time: 0.0208
+INFO - 2026-03-31 16:46:55 --> Config Class Initialized
+INFO - 2026-03-31 16:46:55 --> Hooks Class Initialized
+DEBUG - 2026-03-31 16:46:55 --> UTF-8 Support Enabled
+INFO - 2026-03-31 16:46:55 --> Utf8 Class Initialized
+INFO - 2026-03-31 16:46:55 --> URI Class Initialized
+DEBUG - 2026-03-31 16:46:55 --> No URI present. Default controller set.
+INFO - 2026-03-31 16:46:55 --> Router Class Initialized
+INFO - 2026-03-31 16:46:55 --> Output Class Initialized
+INFO - 2026-03-31 16:46:55 --> Security Class Initialized
+DEBUG - 2026-03-31 16:46:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-03-31 16:46:55 --> Input Class Initialized
+INFO - 2026-03-31 16:46:55 --> Language Class Initialized
+INFO - 2026-03-31 16:46:55 --> Loader Class Initialized
+INFO - 2026-03-31 16:46:55 --> Helper loaded: url_helper
+INFO - 2026-03-31 16:46:55 --> Controller Class Initialized
+INFO - 2026-03-31 16:46:55 --> Model "Json_model" initialized
+INFO - 2026-03-31 16:46:55 --> Session: Class initialized using 'files' driver.
+INFO - 2026-03-31 16:46:55 --> File loaded: D:\laragon\www\bordir\application\views\v_calculator.php
+INFO - 2026-03-31 16:46:55 --> File loaded: D:\laragon\www\bordir\application\views\layout/sidebar.php
+INFO - 2026-03-31 16:46:55 --> File loaded: D:\laragon\www\bordir\application\views\layout/header.php
+INFO - 2026-03-31 16:46:55 --> File loaded: D:\laragon\www\bordir\application\views\layout/footer.php
+INFO - 2026-03-31 16:46:55 --> File loaded: D:\laragon\www\bordir\application\views\layout/master.php
+INFO - 2026-03-31 16:46:55 --> Final output sent to browser
+DEBUG - 2026-03-31 16:46:55 --> Total execution time: 0.2511
+INFO - 2026-03-31 16:46:59 --> Config Class Initialized
+INFO - 2026-03-31 16:46:59 --> Hooks Class Initialized
+DEBUG - 2026-03-31 16:46:59 --> UTF-8 Support Enabled
+INFO - 2026-03-31 16:46:59 --> Utf8 Class Initialized
+INFO - 2026-03-31 16:46:59 --> URI Class Initialized
+INFO - 2026-03-31 16:46:59 --> Router Class Initialized
+INFO - 2026-03-31 16:46:59 --> Output Class Initialized
+INFO - 2026-03-31 16:46:59 --> Security Class Initialized
+DEBUG - 2026-03-31 16:46:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-03-31 16:46:59 --> Input Class Initialized
+INFO - 2026-03-31 16:46:59 --> Language Class Initialized
+INFO - 2026-03-31 16:46:59 --> Loader Class Initialized
+INFO - 2026-03-31 16:46:59 --> Helper loaded: url_helper
+INFO - 2026-03-31 16:46:59 --> Controller Class Initialized
+INFO - 2026-03-31 16:46:59 --> Model "Json_model" initialized
+INFO - 2026-03-31 16:46:59 --> Session: Class initialized using 'files' driver.
+INFO - 2026-03-31 16:46:59 --> File loaded: D:\laragon\www\bordir\application\views\v_login.php
+INFO - 2026-03-31 16:46:59 --> File loaded: D:\laragon\www\bordir\application\views\layout/sidebar.php
+INFO - 2026-03-31 16:46:59 --> File loaded: D:\laragon\www\bordir\application\views\layout/header.php
+INFO - 2026-03-31 16:46:59 --> File loaded: D:\laragon\www\bordir\application\views\layout/footer.php
+INFO - 2026-03-31 16:46:59 --> File loaded: D:\laragon\www\bordir\application\views\layout/master.php
+INFO - 2026-03-31 16:46:59 --> Final output sent to browser
+DEBUG - 2026-03-31 16:46:59 --> Total execution time: 0.0369
+INFO - 2026-03-31 16:47:07 --> Config Class Initialized
+INFO - 2026-03-31 16:47:07 --> Hooks Class Initialized
+DEBUG - 2026-03-31 16:47:07 --> UTF-8 Support Enabled
+INFO - 2026-03-31 16:47:07 --> Utf8 Class Initialized
+INFO - 2026-03-31 16:47:07 --> URI Class Initialized
+INFO - 2026-03-31 16:47:07 --> Router Class Initialized
+INFO - 2026-03-31 16:47:07 --> Output Class Initialized
+INFO - 2026-03-31 16:47:07 --> Security Class Initialized
+DEBUG - 2026-03-31 16:47:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-03-31 16:47:07 --> Input Class Initialized
+INFO - 2026-03-31 16:47:07 --> Language Class Initialized
+INFO - 2026-03-31 16:47:07 --> Loader Class Initialized
+INFO - 2026-03-31 16:47:07 --> Helper loaded: url_helper
+INFO - 2026-03-31 16:47:07 --> Controller Class Initialized
+INFO - 2026-03-31 16:47:07 --> Model "Json_model" initialized
+INFO - 2026-03-31 16:47:07 --> Session: Class initialized using 'files' driver.
+INFO - 2026-03-31 16:47:07 --> Config Class Initialized
+INFO - 2026-03-31 16:47:07 --> Hooks Class Initialized
+DEBUG - 2026-03-31 16:47:07 --> UTF-8 Support Enabled
+INFO - 2026-03-31 16:47:07 --> Utf8 Class Initialized
+INFO - 2026-03-31 16:47:07 --> URI Class Initialized
+INFO - 2026-03-31 16:47:07 --> Router Class Initialized
+INFO - 2026-03-31 16:47:07 --> Output Class Initialized
+INFO - 2026-03-31 16:47:07 --> Security Class Initialized
+DEBUG - 2026-03-31 16:47:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-03-31 16:47:07 --> Input Class Initialized
+INFO - 2026-03-31 16:47:07 --> Language Class Initialized
+INFO - 2026-03-31 16:47:07 --> Loader Class Initialized
+INFO - 2026-03-31 16:47:07 --> Helper loaded: url_helper
+INFO - 2026-03-31 16:47:07 --> Controller Class Initialized
+INFO - 2026-03-31 16:47:07 --> Model "Json_model" initialized
+INFO - 2026-03-31 16:47:07 --> Session: Class initialized using 'files' driver.
+INFO - 2026-03-31 16:47:07 --> File loaded: D:\laragon\www\bordir\application\views\v_login.php
+INFO - 2026-03-31 16:47:07 --> File loaded: D:\laragon\www\bordir\application\views\layout/sidebar.php
+INFO - 2026-03-31 16:47:07 --> File loaded: D:\laragon\www\bordir\application\views\layout/header.php
+INFO - 2026-03-31 16:47:07 --> File loaded: D:\laragon\www\bordir\application\views\layout/footer.php
+INFO - 2026-03-31 16:47:07 --> File loaded: D:\laragon\www\bordir\application\views\layout/master.php
+INFO - 2026-03-31 16:47:07 --> Final output sent to browser
+DEBUG - 2026-03-31 16:47:07 --> Total execution time: 0.0195
+INFO - 2026-03-31 16:47:08 --> Config Class Initialized
+INFO - 2026-03-31 16:47:08 --> Hooks Class Initialized
+DEBUG - 2026-03-31 16:47:08 --> UTF-8 Support Enabled
+INFO - 2026-03-31 16:47:08 --> Utf8 Class Initialized
+INFO - 2026-03-31 16:47:08 --> URI Class Initialized
+INFO - 2026-03-31 16:47:08 --> Router Class Initialized
+INFO - 2026-03-31 16:47:08 --> Output Class Initialized
+INFO - 2026-03-31 16:47:08 --> Security Class Initialized
+DEBUG - 2026-03-31 16:47:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-03-31 16:47:08 --> Input Class Initialized
+INFO - 2026-03-31 16:47:08 --> Language Class Initialized
+INFO - 2026-03-31 16:47:08 --> Loader Class Initialized
+INFO - 2026-03-31 16:47:08 --> Helper loaded: url_helper
+INFO - 2026-03-31 16:47:08 --> Controller Class Initialized
+INFO - 2026-03-31 16:47:08 --> Model "Json_model" initialized
+INFO - 2026-03-31 16:47:08 --> Session: Class initialized using 'files' driver.
+INFO - 2026-03-31 16:47:08 --> Config Class Initialized
+INFO - 2026-03-31 16:47:08 --> Hooks Class Initialized
+DEBUG - 2026-03-31 16:47:08 --> UTF-8 Support Enabled
+INFO - 2026-03-31 16:47:08 --> Utf8 Class Initialized
+INFO - 2026-03-31 16:47:08 --> URI Class Initialized
+INFO - 2026-03-31 16:47:08 --> Router Class Initialized
+INFO - 2026-03-31 16:47:08 --> Output Class Initialized
+INFO - 2026-03-31 16:47:08 --> Security Class Initialized
+DEBUG - 2026-03-31 16:47:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-03-31 16:47:08 --> Input Class Initialized
+INFO - 2026-03-31 16:47:08 --> Language Class Initialized
+INFO - 2026-03-31 16:47:08 --> Loader Class Initialized
+INFO - 2026-03-31 16:47:08 --> Helper loaded: url_helper
+INFO - 2026-03-31 16:47:08 --> Controller Class Initialized
+INFO - 2026-03-31 16:47:08 --> Model "Json_model" initialized
+INFO - 2026-03-31 16:47:08 --> Session: Class initialized using 'files' driver.
+INFO - 2026-03-31 16:47:08 --> File loaded: D:\laragon\www\bordir\application\views\v_login.php
+INFO - 2026-03-31 16:47:08 --> File loaded: D:\laragon\www\bordir\application\views\layout/sidebar.php
+INFO - 2026-03-31 16:47:08 --> File loaded: D:\laragon\www\bordir\application\views\layout/header.php
+INFO - 2026-03-31 16:47:08 --> File loaded: D:\laragon\www\bordir\application\views\layout/footer.php
+INFO - 2026-03-31 16:47:08 --> File loaded: D:\laragon\www\bordir\application\views\layout/master.php
+INFO - 2026-03-31 16:47:08 --> Final output sent to browser
+DEBUG - 2026-03-31 16:47:08 --> Total execution time: 0.0211
+INFO - 2026-03-31 16:47:10 --> Config Class Initialized
+INFO - 2026-03-31 16:47:10 --> Hooks Class Initialized
+DEBUG - 2026-03-31 16:47:10 --> UTF-8 Support Enabled
+INFO - 2026-03-31 16:47:10 --> Utf8 Class Initialized
+INFO - 2026-03-31 16:47:10 --> URI Class Initialized
+INFO - 2026-03-31 16:47:10 --> Router Class Initialized
+INFO - 2026-03-31 16:47:10 --> Output Class Initialized
+INFO - 2026-03-31 16:47:10 --> Security Class Initialized
+DEBUG - 2026-03-31 16:47:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-03-31 16:47:10 --> Input Class Initialized
+INFO - 2026-03-31 16:47:10 --> Language Class Initialized
+INFO - 2026-03-31 16:47:10 --> Loader Class Initialized
+INFO - 2026-03-31 16:47:10 --> Helper loaded: url_helper
+INFO - 2026-03-31 16:47:10 --> Controller Class Initialized
+INFO - 2026-03-31 16:47:10 --> Model "Json_model" initialized
+INFO - 2026-03-31 16:47:10 --> Session: Class initialized using 'files' driver.
+INFO - 2026-03-31 16:47:10 --> Config Class Initialized
+INFO - 2026-03-31 16:47:10 --> Hooks Class Initialized
+DEBUG - 2026-03-31 16:47:10 --> UTF-8 Support Enabled
+INFO - 2026-03-31 16:47:10 --> Utf8 Class Initialized
+INFO - 2026-03-31 16:47:10 --> URI Class Initialized
+INFO - 2026-03-31 16:47:10 --> Router Class Initialized
+INFO - 2026-03-31 16:47:10 --> Output Class Initialized
+INFO - 2026-03-31 16:47:10 --> Security Class Initialized
+DEBUG - 2026-03-31 16:47:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-03-31 16:47:10 --> Input Class Initialized
+INFO - 2026-03-31 16:47:10 --> Language Class Initialized
+INFO - 2026-03-31 16:47:10 --> Loader Class Initialized
+INFO - 2026-03-31 16:47:10 --> Helper loaded: url_helper
+INFO - 2026-03-31 16:47:10 --> Controller Class Initialized
+INFO - 2026-03-31 16:47:10 --> Model "Json_model" initialized
+INFO - 2026-03-31 16:47:10 --> Session: Class initialized using 'files' driver.
+INFO - 2026-03-31 16:47:10 --> File loaded: D:\laragon\www\bordir\application\views\v_login.php
+INFO - 2026-03-31 16:47:10 --> File loaded: D:\laragon\www\bordir\application\views\layout/sidebar.php
+INFO - 2026-03-31 16:47:10 --> File loaded: D:\laragon\www\bordir\application\views\layout/header.php
+INFO - 2026-03-31 16:47:10 --> File loaded: D:\laragon\www\bordir\application\views\layout/footer.php
+INFO - 2026-03-31 16:47:10 --> File loaded: D:\laragon\www\bordir\application\views\layout/master.php
+INFO - 2026-03-31 16:47:10 --> Final output sent to browser
+DEBUG - 2026-03-31 16:47:10 --> Total execution time: 0.0171
+INFO - 2026-03-31 16:47:19 --> Config Class Initialized
+INFO - 2026-03-31 16:47:19 --> Hooks Class Initialized
+DEBUG - 2026-03-31 16:47:19 --> UTF-8 Support Enabled
+INFO - 2026-03-31 16:47:19 --> Utf8 Class Initialized
+INFO - 2026-03-31 16:47:19 --> URI Class Initialized
+INFO - 2026-03-31 16:47:19 --> Router Class Initialized
+INFO - 2026-03-31 16:47:19 --> Output Class Initialized
+INFO - 2026-03-31 16:47:19 --> Security Class Initialized
+DEBUG - 2026-03-31 16:47:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-03-31 16:47:19 --> Input Class Initialized
+INFO - 2026-03-31 16:47:19 --> Language Class Initialized
+INFO - 2026-03-31 16:47:19 --> Loader Class Initialized
+INFO - 2026-03-31 16:47:19 --> Helper loaded: url_helper
+INFO - 2026-03-31 16:47:19 --> Controller Class Initialized
+INFO - 2026-03-31 16:47:19 --> Model "Json_model" initialized
+INFO - 2026-03-31 16:47:19 --> Session: Class initialized using 'files' driver.
+INFO - 2026-03-31 16:47:19 --> Config Class Initialized
+INFO - 2026-03-31 16:47:19 --> Hooks Class Initialized
+DEBUG - 2026-03-31 16:47:19 --> UTF-8 Support Enabled
+INFO - 2026-03-31 16:47:19 --> Utf8 Class Initialized
+INFO - 2026-03-31 16:47:19 --> URI Class Initialized
+INFO - 2026-03-31 16:47:19 --> Router Class Initialized
+INFO - 2026-03-31 16:47:19 --> Output Class Initialized
+INFO - 2026-03-31 16:47:19 --> Security Class Initialized
+DEBUG - 2026-03-31 16:47:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-03-31 16:47:19 --> Input Class Initialized
+INFO - 2026-03-31 16:47:19 --> Language Class Initialized
+INFO - 2026-03-31 16:47:19 --> Loader Class Initialized
+INFO - 2026-03-31 16:47:19 --> Helper loaded: url_helper
+INFO - 2026-03-31 16:47:19 --> Controller Class Initialized
+INFO - 2026-03-31 16:47:19 --> Model "Json_model" initialized
+INFO - 2026-03-31 16:47:19 --> Session: Class initialized using 'files' driver.
+INFO - 2026-03-31 16:47:19 --> File loaded: D:\laragon\www\bordir\application\views\v_login.php
+INFO - 2026-03-31 16:47:19 --> File loaded: D:\laragon\www\bordir\application\views\layout/sidebar.php
+INFO - 2026-03-31 16:47:19 --> File loaded: D:\laragon\www\bordir\application\views\layout/header.php
+INFO - 2026-03-31 16:47:19 --> File loaded: D:\laragon\www\bordir\application\views\layout/footer.php
+INFO - 2026-03-31 16:47:19 --> File loaded: D:\laragon\www\bordir\application\views\layout/master.php
+INFO - 2026-03-31 16:47:19 --> Final output sent to browser
+DEBUG - 2026-03-31 16:47:19 --> Total execution time: 0.0205
+INFO - 2026-03-31 16:47:27 --> Config Class Initialized
+INFO - 2026-03-31 16:47:27 --> Hooks Class Initialized
+DEBUG - 2026-03-31 16:47:27 --> UTF-8 Support Enabled
+INFO - 2026-03-31 16:47:27 --> Utf8 Class Initialized
+INFO - 2026-03-31 16:47:27 --> URI Class Initialized
+INFO - 2026-03-31 16:47:27 --> Router Class Initialized
+INFO - 2026-03-31 16:47:27 --> Output Class Initialized
+INFO - 2026-03-31 16:47:27 --> Security Class Initialized
+DEBUG - 2026-03-31 16:47:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-03-31 16:47:27 --> Input Class Initialized
+INFO - 2026-03-31 16:47:27 --> Language Class Initialized
+INFO - 2026-03-31 16:47:27 --> Loader Class Initialized
+INFO - 2026-03-31 16:47:27 --> Helper loaded: url_helper
+INFO - 2026-03-31 16:47:27 --> Controller Class Initialized
+INFO - 2026-03-31 16:47:27 --> Model "Json_model" initialized
+INFO - 2026-03-31 16:47:27 --> Session: Class initialized using 'files' driver.
+INFO - 2026-03-31 16:47:27 --> Config Class Initialized
+INFO - 2026-03-31 16:47:27 --> Hooks Class Initialized
+DEBUG - 2026-03-31 16:47:27 --> UTF-8 Support Enabled
+INFO - 2026-03-31 16:47:27 --> Utf8 Class Initialized
+INFO - 2026-03-31 16:47:27 --> URI Class Initialized
+INFO - 2026-03-31 16:47:27 --> Router Class Initialized
+INFO - 2026-03-31 16:47:27 --> Output Class Initialized
+INFO - 2026-03-31 16:47:27 --> Security Class Initialized
+DEBUG - 2026-03-31 16:47:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-03-31 16:47:27 --> Input Class Initialized
+INFO - 2026-03-31 16:47:27 --> Language Class Initialized
+INFO - 2026-03-31 16:47:27 --> Loader Class Initialized
+INFO - 2026-03-31 16:47:27 --> Helper loaded: url_helper
+INFO - 2026-03-31 16:47:27 --> Controller Class Initialized
+INFO - 2026-03-31 16:47:27 --> Model "Json_model" initialized
+INFO - 2026-03-31 16:47:27 --> Session: Class initialized using 'files' driver.
+INFO - 2026-03-31 16:47:27 --> File loaded: D:\laragon\www\bordir\application\views\v_login.php
+INFO - 2026-03-31 16:47:27 --> File loaded: D:\laragon\www\bordir\application\views\layout/sidebar.php
+INFO - 2026-03-31 16:47:27 --> File loaded: D:\laragon\www\bordir\application\views\layout/header.php
+INFO - 2026-03-31 16:47:27 --> File loaded: D:\laragon\www\bordir\application\views\layout/footer.php
+INFO - 2026-03-31 16:47:27 --> File loaded: D:\laragon\www\bordir\application\views\layout/master.php
+INFO - 2026-03-31 16:47:27 --> Final output sent to browser
+DEBUG - 2026-03-31 16:47:27 --> Total execution time: 0.0186
+INFO - 2026-03-31 16:47:42 --> Config Class Initialized
+INFO - 2026-03-31 16:47:42 --> Hooks Class Initialized
+DEBUG - 2026-03-31 16:47:42 --> UTF-8 Support Enabled
+INFO - 2026-03-31 16:47:42 --> Utf8 Class Initialized
+INFO - 2026-03-31 16:47:42 --> URI Class Initialized
+INFO - 2026-03-31 16:47:42 --> Router Class Initialized
+INFO - 2026-03-31 16:47:42 --> Output Class Initialized
+INFO - 2026-03-31 16:47:42 --> Security Class Initialized
+DEBUG - 2026-03-31 16:47:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-03-31 16:47:42 --> Input Class Initialized
+INFO - 2026-03-31 16:47:42 --> Language Class Initialized
+INFO - 2026-03-31 16:47:42 --> Loader Class Initialized
+INFO - 2026-03-31 16:47:42 --> Helper loaded: url_helper
+INFO - 2026-03-31 16:47:42 --> Controller Class Initialized
+INFO - 2026-03-31 16:47:42 --> Model "Json_model" initialized
+INFO - 2026-03-31 16:47:42 --> Session: Class initialized using 'files' driver.
+INFO - 2026-03-31 16:47:42 --> Config Class Initialized
+INFO - 2026-03-31 16:47:42 --> Hooks Class Initialized
+DEBUG - 2026-03-31 16:47:42 --> UTF-8 Support Enabled
+INFO - 2026-03-31 16:47:42 --> Utf8 Class Initialized
+INFO - 2026-03-31 16:47:42 --> URI Class Initialized
+INFO - 2026-03-31 16:47:42 --> Router Class Initialized
+INFO - 2026-03-31 16:47:42 --> Output Class Initialized
+INFO - 2026-03-31 16:47:42 --> Security Class Initialized
+DEBUG - 2026-03-31 16:47:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-03-31 16:47:42 --> Input Class Initialized
+INFO - 2026-03-31 16:47:42 --> Language Class Initialized
+INFO - 2026-03-31 16:47:42 --> Loader Class Initialized
+INFO - 2026-03-31 16:47:42 --> Helper loaded: url_helper
+INFO - 2026-03-31 16:47:42 --> Controller Class Initialized
+INFO - 2026-03-31 16:47:42 --> Model "Json_model" initialized
+INFO - 2026-03-31 16:47:42 --> Session: Class initialized using 'files' driver.
+INFO - 2026-03-31 16:47:42 --> File loaded: D:\laragon\www\bordir\application\views\v_login.php
+INFO - 2026-03-31 16:47:42 --> File loaded: D:\laragon\www\bordir\application\views\layout/sidebar.php
+INFO - 2026-03-31 16:47:42 --> File loaded: D:\laragon\www\bordir\application\views\layout/header.php
+INFO - 2026-03-31 16:47:42 --> File loaded: D:\laragon\www\bordir\application\views\layout/footer.php
+INFO - 2026-03-31 16:47:42 --> File loaded: D:\laragon\www\bordir\application\views\layout/master.php
+INFO - 2026-03-31 16:47:42 --> Final output sent to browser
+DEBUG - 2026-03-31 16:47:42 --> Total execution time: 0.0181
+INFO - 2026-03-31 16:49:00 --> Config Class Initialized
+INFO - 2026-03-31 16:49:00 --> Hooks Class Initialized
+DEBUG - 2026-03-31 16:49:00 --> UTF-8 Support Enabled
+INFO - 2026-03-31 16:49:00 --> Utf8 Class Initialized
+INFO - 2026-03-31 16:49:00 --> URI Class Initialized
+INFO - 2026-03-31 16:49:00 --> Router Class Initialized
+INFO - 2026-03-31 16:49:00 --> Output Class Initialized
+INFO - 2026-03-31 16:49:00 --> Security Class Initialized
+DEBUG - 2026-03-31 16:49:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-03-31 16:49:00 --> Input Class Initialized
+INFO - 2026-03-31 16:49:00 --> Language Class Initialized
+INFO - 2026-03-31 16:49:00 --> Loader Class Initialized
+INFO - 2026-03-31 16:49:00 --> Helper loaded: url_helper
+INFO - 2026-03-31 16:49:00 --> Controller Class Initialized
+INFO - 2026-03-31 16:49:00 --> Model "Json_model" initialized
+INFO - 2026-03-31 16:49:00 --> Session: Class initialized using 'files' driver.
+INFO - 2026-03-31 16:49:00 --> File loaded: D:\laragon\www\bordir\application\views\v_login.php
+INFO - 2026-03-31 16:49:00 --> File loaded: D:\laragon\www\bordir\application\views\layout/sidebar.php
+INFO - 2026-03-31 16:49:00 --> File loaded: D:\laragon\www\bordir\application\views\layout/header.php
+INFO - 2026-03-31 16:49:00 --> File loaded: D:\laragon\www\bordir\application\views\layout/footer.php
+INFO - 2026-03-31 16:49:00 --> File loaded: D:\laragon\www\bordir\application\views\layout/master.php
+INFO - 2026-03-31 16:49:00 --> Final output sent to browser
+DEBUG - 2026-03-31 16:49:00 --> Total execution time: 0.0526
+INFO - 2026-03-31 16:49:06 --> Config Class Initialized
+INFO - 2026-03-31 16:49:06 --> Hooks Class Initialized
+DEBUG - 2026-03-31 16:49:06 --> UTF-8 Support Enabled
+INFO - 2026-03-31 16:49:06 --> Utf8 Class Initialized
+INFO - 2026-03-31 16:49:06 --> URI Class Initialized
+INFO - 2026-03-31 16:49:06 --> Router Class Initialized
+INFO - 2026-03-31 16:49:06 --> Output Class Initialized
+INFO - 2026-03-31 16:49:06 --> Security Class Initialized
+DEBUG - 2026-03-31 16:49:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-03-31 16:49:06 --> Input Class Initialized
+INFO - 2026-03-31 16:49:06 --> Language Class Initialized
+INFO - 2026-03-31 16:49:06 --> Loader Class Initialized
+INFO - 2026-03-31 16:49:06 --> Helper loaded: url_helper
+INFO - 2026-03-31 16:49:06 --> Controller Class Initialized
+INFO - 2026-03-31 16:49:06 --> Model "Json_model" initialized
+INFO - 2026-03-31 16:49:06 --> Session: Class initialized using 'files' driver.
+INFO - 2026-03-31 16:49:06 --> Config Class Initialized
+INFO - 2026-03-31 16:49:06 --> Hooks Class Initialized
+DEBUG - 2026-03-31 16:49:06 --> UTF-8 Support Enabled
+INFO - 2026-03-31 16:49:06 --> Utf8 Class Initialized
+INFO - 2026-03-31 16:49:06 --> URI Class Initialized
+INFO - 2026-03-31 16:49:06 --> Router Class Initialized
+INFO - 2026-03-31 16:49:06 --> Output Class Initialized
+INFO - 2026-03-31 16:49:06 --> Security Class Initialized
+DEBUG - 2026-03-31 16:49:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-03-31 16:49:06 --> Input Class Initialized
+INFO - 2026-03-31 16:49:06 --> Language Class Initialized
+INFO - 2026-03-31 16:49:06 --> Loader Class Initialized
+INFO - 2026-03-31 16:49:06 --> Helper loaded: url_helper
+INFO - 2026-03-31 16:49:06 --> Controller Class Initialized
+INFO - 2026-03-31 16:49:06 --> Model "Json_model" initialized
+INFO - 2026-03-31 16:49:06 --> Session: Class initialized using 'files' driver.
+INFO - 2026-03-31 16:49:06 --> File loaded: D:\laragon\www\bordir\application\views\v_settings.php
+INFO - 2026-03-31 16:49:06 --> File loaded: D:\laragon\www\bordir\application\views\layout/sidebar.php
+INFO - 2026-03-31 16:49:06 --> File loaded: D:\laragon\www\bordir\application\views\layout/header.php
+INFO - 2026-03-31 16:49:06 --> File loaded: D:\laragon\www\bordir\application\views\layout/footer.php
+INFO - 2026-03-31 16:49:06 --> File loaded: D:\laragon\www\bordir\application\views\layout/master.php
+INFO - 2026-03-31 16:49:06 --> Final output sent to browser
+DEBUG - 2026-03-31 16:49:06 --> Total execution time: 0.0379
