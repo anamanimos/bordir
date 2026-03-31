@@ -67,6 +67,20 @@ class CI_Controller {
 	public $load;
 
 	/**
+	 * Common CI core properties
+	 */
+	public $config;
+	public $input;
+	public $output;
+	public $lang;
+	public $db;
+	public $uri;
+	public $router;
+	public $benchmark;
+	public $security;
+	public $session;
+
+	/**
 	 * Class constructor
 	 *
 	 * @return	void
