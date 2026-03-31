@@ -1,0 +1,91 @@
+
+
+/* Glass Card */
+.glass-card {
+  background: var(--glass-bg);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid var(--glass-border);
+  box-shadow: 0 8px 32px 0 var(--glass-shadow);
+  border-radius: 1.5rem;
+  padding: 2rem;
+  transition: all 0.3s ease;
+}
+
+/* Transparan Table overrides dalam Glass Card */
+.glass-card .table,
+.glass-card .table th,
+.glass-card .table td,
+.glass-card .table tr {
+  background-color: transparent !important;
+  color: var(--input-text) !important;
+  border-color: rgba(128, 128, 128, 0.2);
+}
+
+.glass-card .table-hover tbody tr:hover td {
+  background-color: rgba(128, 128, 128, 0.1) !important;
+}
+
+/* Input Fields */
+.form-control.glass-input, .form-select.glass-input, .input-group-text.glass-input {
+  background: var(--input-bg);
+  border: 1px solid var(--input-border);
+  color: var(--input-text);
+  border-radius: 0.75rem;
+  padding: 0.75rem 1rem;
+  transition: all 0.2s ease;
+}
+
+.form-control.glass-input:focus, .form-select.glass-input:focus {
+  background: var(--input-bg);
+  color: var(--input-text);
+  box-shadow: 0 0 0 0.25rem rgba(90, 103, 216, 0.25);
+  border-color: var(--accent);
+}
+
+.text-muted {
+  color: var(--text-muted) !important;
+}
+
+.accent-text {
+  color: var(--accent);
+  font-weight: 700;
+}
+
+/* Switch Theme Button */
+.theme-switch-btn {
+  background: var(--glass-bg);
+  border: 1px solid var(--glass-border);
+  color: var(--text-main);
+  border-radius: 50%;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  backdrop-filter: blur(10px);
+  transition: all 0.3s ease;
+}
+
+.theme-switch-btn:hover {
+  transform: scale(1.05);
+  background: rgba(128, 128, 128, 0.1);
+}
+
+.result-card {
+  background: linear-gradient(135deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0));
+  border-radius: 1rem;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border: 1px solid var(--glass-border);
+}
+
+.total-price-card {
+  background: linear-gradient(135deg, var(--accent) 0%, rgba(90, 103, 216, 0.8) 100%);
+  color: white;
+  border-radius: 1rem;
+  padding: 1.5rem;
+  border: none;
+  box-shadow: 0 10px 25px -5px rgba(90, 103, 216, 0.5);
+}

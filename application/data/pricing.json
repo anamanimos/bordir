@@ -1,0 +1,17 @@
+[
+    {
+        "min_qty": 1,
+        "max_qty": 11,
+        "price": 0.5
+    },
+    {
+        "min_qty": 12,
+        "max_qty": 59,
+        "price": 0.45
+    },
+    {
+        "min_qty": 60,
+        "max_qty": 999999,
+        "price": 0.35
+    }
+]

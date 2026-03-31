@@ -1,0 +1,8 @@
+{
+    "minUkuran": 1,
+    "minOrder": 6,
+    "stitchDensity": 220,
+    "minCharge": 0,
+    "pembulatanMethod": "ceil",
+    "pembulatanKelipatan": 100
+}
