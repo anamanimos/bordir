@@ -2,16 +2,36 @@
     {
         "min_qty": 1,
         "max_qty": 11,
-        "price": 0.5
+        "prices": {
+            "sevencols": 0.5
+        }
     },
     {
         "min_qty": 12,
+        "max_qty": 29,
+        "prices": {
+            "sevencols": 0.45
+        }
+    },
+    {
+        "min_qty": 30,
         "max_qty": 59,
-        "price": 0.45
+        "prices": {
+            "sevencols": 0.4
+        }
     },
     {
         "min_qty": 60,
+        "max_qty": 119,
+        "prices": {
+            "sevencols": 0.35
+        }
+    },
+    {
+        "min_qty": 120,
         "max_qty": 999999,
-        "price": 0.35
+        "prices": {
+            "sevencols": 0.35
+        }
     }
 ]
